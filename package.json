@@ -1,0 +1,16 @@
+{
+    "name": "omnipod",
+    "version": "1.0.0",
+    "license": "MIT",
+    "main": "src/index",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "ibf-file-reader": "^1.0.2"
+    },
+    "devDependencies": {
+        "@types/node": "^12.7.11",
+        "typescript": "^3.6.3"
+    }
+}
